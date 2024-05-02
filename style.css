@@ -1,0 +1,30 @@
+/* Global styles */
+body {
+    background-color: black; /* Black background */
+    color: white; /* White text */
+}
+
+/* Instagram logo styling */
+img {
+    filter: invert(1);
+}
+
+/* Button styles */
+.btn-danger {
+    background-color: red;
+    border-color: red;
+}
+
+.btn-danger:hover {
+    background-color: darkred;
+    border-color: darkred;
+}
+
+/* Custom link styles */
+a {
+    color: red;
+}
+
+a:hover {
+    color: darkred;
+}
